@@ -1,0 +1,5 @@
+module Chipmunk [system] {
+    header "shim.h"
+    link "chipmunk"
+    export *
+}
